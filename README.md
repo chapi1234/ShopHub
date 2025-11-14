@@ -136,7 +136,7 @@ Defines project-level scripts and dependencies for managing both client and serv
    - Add your database connection string, JWT secret, Stripe key, etc.  
 
 4. **Access App:**  
-   - Open frontend in browser → `http://localhost:5173`  
+   - Open frontend in browser → `http://localhost:8080`  
    - Backend runs on → `http://localhost:5000`  
 
 ---
